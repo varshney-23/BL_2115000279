@@ -1,0 +1,12 @@
+1. pwd             present hum kha pe hai
+2. ls              folder ka pura list aajata isme
+3. cd              kisi bhi directory me aane jane ke lie, cd ..   wapus aane ke lie 
+4. mkdir           make folder
+5. rmdir           remove folder
+6. touch   	   make file
+7. cp src des	   to copy the content of files
+8. mv src des      to move files / dir from one to another dir / file
+9. rm filename     to remove file
+10. environment variables--> 
+
+wsl command se ubuntu, how??? or if there is any other way.
